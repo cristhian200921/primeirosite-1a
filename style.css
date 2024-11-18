@@ -1,3 +1,8 @@
 body {
-    background-color: aquamarine;
-}
+color: rgb(106, 5, 131);
+background: #222;
+margin: 0px;
+} 
+
+header {
+    border-bottom: solid 2px
