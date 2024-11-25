@@ -5,4 +5,31 @@ margin: 0px;
 } 
 
 header {
-    border-bottom: solid 2px
+    border-bottom: solid 2px rgb (42, 122, 228);
+    padding: 32px; 
+    color: rgb(238, 255, 0)
+    { 
+
+    chamada { 
+
+        background: rgb(184,156, 213); 
+        background: rgb(184,156, 213); 
+        padding-bottom: 80px 
+        padding-top: 80px;
+        display: flex;
+         justify-content: center;
+  
+         chamada-texto {  margin-rignt: 5%;
+
+             }  
+
+             h1 } 
+             font -size: 40px; 
+              } 
+
+              p {  
+                font-size: 20px; 
+                 }  
+
+                 footer {
+                     back
