@@ -10,7 +10,7 @@ header {
     color: rgb(238, 255, 0)
     { 
 
-    chamada { 
+.chamada { 
 
         background: rgb(184,156, 213); 
         background: rgb(184,156, 213); 
@@ -19,17 +19,17 @@ header {
         display: flex;
          justify-content: center;
   
-         chamada-texto {  margin-rignt: 5%;
+.chamada-texto {  margin-rignt: 5%;
 
-             }  
+}  
 
-             h1 } 
-             font -size: 40px; 
-              } 
+h1 } 
+    font -size: 40px; 
+} 
 
-              p {  
-                font-size: 20px; 
-                 }  
+p {  
+    font-size: 20px; 
+}  
 
-                 footer {
+footer {
                      back 
